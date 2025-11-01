@@ -1,0 +1,22 @@
+SQL Industry-Level Queries
+
+This repository contains 9 real-world SQL problems inspired by industry-level data challenges.
+Each query demonstrates how to handle practical business and database scenarios — from cleaning data to designing mini-systems in SQL.
+
+🧩 Project Overview
+
+Each query represents a different business case and includes:
+
+Custom dataset (created manually)
+
+SQL query to solve the problem
+
+Explanation of logic
+
+Real-world relevance
+
+⚙️ Technology Used
+
+SQL (Tested on MySQL Workbench)
+
+Database Concepts: Joins, CTEs, Subqueries, Procedures, Transactions, Window Functions, Aggregate Function
