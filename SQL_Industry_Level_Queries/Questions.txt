@@ -1,0 +1,17 @@
+1.You have got duplicate rows in table you have to delete them.
+
+2.You sales manager and you have 3 territories under you, the manager decided that for each territory the salesperson who have sold more than 30% of the average of that territory will get hike and person who have done 80% less than the average salary will be issued PIP , now for all you have to tell your manager if he/she will get a hike or will be in a PIP.
+
+3.You are database administrator for a university , University have declared result for a special exam , However children were not happy with the marks as marks were not given appropriately and many students marksheet was blank , so they strikes. Due to strike university again checked the sheets and updates were made. Handle these updates.
+
+4.You have to make a procedure , where you will give 3 inputs string, deliminator and before and after command , based on the information provided you have to find that part of string. Note -> In industry we have space constraints , that's why we try to make things as simple as possible, and reusable things. 
+
+5.You have a table that stores student information roll number wise , now some of the students have left the school due to which the roll numbers became discontinuous Now your task is to make them continuous. 
+
+6. create a system where it will check the warehouse before making the sale and if sufficient quantity is available make the sale and store the sales transaction else show error for insufficient quantity.( like an ecommerce website, before making final transaction look for stock.)
+
+7 you have a table where there is sales data for entire month you have to calculate cumulative sum for the entire month data show it month wise and week wise both.
+ 
+8 Given a Sales table containing SaleID, ProductID, SaleAmount, and SaleDate, write a SQL query to find the top 2 salespeople based on their total sales amount for the current month. If there's a tie in sales amount, prioritize the salesperson with the earlier registration date. 
+
+9 You have got transaction data in the format transaction id , date , type , amount and description , however this format is not easily interpretable , now you have to make it in the good format ( month , year, revenue, expenditure, profit).
